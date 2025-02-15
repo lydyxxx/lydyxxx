@@ -8,6 +8,7 @@
 </p>
 
 
+
 <h1 align="center">
   Привет, я lydyxxx <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -26,7 +27,15 @@
   <a href="https://github.com/lydyxxx" target="_blank">
     <img src="https://img.shields.io/github/followers/lydyxxx?style=for-the-badge&label=Follow&logo=github" alt="GitHub Followers"/>
   </a>
+
+  <!-- Бэйдж со счётчиком просмотров профиля -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=lydyxxx&color=blue" 
+    alt="Profile views" 
+    style="max-width:100%;"
+  />
 </p>
+
 
 ---
 
