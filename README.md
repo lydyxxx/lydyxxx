@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="https://github.com/lydyxxx/lydyxxx/blob/main/images/banner.png" alt="banner" />
+  <img 
+    src="https://github.com/lydyxxx/lydyxxx/blob/main/images/banner.jpg" 
+    alt="banner" 
+    width="600" 
+    height="350"
+  />
 </p>
+
 
 <h1 align="center">
   Привет, я lydyxxx <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
