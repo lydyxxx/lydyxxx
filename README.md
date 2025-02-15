@@ -94,10 +94,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/lydyxxx/lydyxxx/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 ---
 
 ## 📬 Связаться со мной
