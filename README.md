@@ -18,17 +18,14 @@
 </p>
 
 <p align="center">
-  <!-- Бэйдж на ваш телеграм-канал. Замените ссылку на нужную -->
   <a href="https://t.me/your_channel" target="_blank">
     <img src="https://img.shields.io/badge/Telegram%20Channel-6K%2B%20подписчиков-blue?style=for-the-badge&logo=telegram" alt="Telegram Channel"/>
   </a>
 
-  <!-- Бэйдж на ваши подписчики на GitHub -->
   <a href="https://github.com/lydyxxx" target="_blank">
     <img src="https://img.shields.io/github/followers/lydyxxx?style=for-the-badge&label=Follow&logo=github" alt="GitHub Followers"/>
   </a>
 
-  <!-- Бэйдж со счётчиком просмотров профиля -->
   <img 
     src="https://komarev.com/ghpvc/?username=lydyxxx&color=blue" 
     alt="Profile views" 
