@@ -65,6 +65,9 @@ print(me)
 </div>
 📈 Статистика GitHub
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lydyxxx&layout=compact&hide_border=true&title_color=FFAE00&text_color=b0b0b0&bg_color=0d1117" alt="Популярные языки"/> <img src="https://github-readme-stats.vercel.app/api?username=lydyxxx&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=FFAE00&text_color=b0b0b0&bg_color=0d1117" alt="Статистика GitHub"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lydyxxx&theme=dark&hide_border=true&stroke=FFAE00&background=0d1117&ring=FFAE00&fire=FFAE00&currStreakNum=b0b0b0&sideNums=b0b0b0&currStreakLabel=b0b0b0&sideLabels=b0b0b0&dates=b0b0b0" alt="Серия GitHub"/> </p>
+<p align="center">
+  <img src="https://i.pinimg.com/736x/f3/1e/68/f31e68afcfbdb045ba66ee380df5bca9.jpg" alt="dark aesthetic image" width="100%"/>
+</p>
 🏆 Достижения
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lydyxxx&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Трофеи"/> </p>
 🌌 Контакты
